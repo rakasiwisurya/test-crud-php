@@ -2,12 +2,12 @@
 <html>
 
 <head>
-  <title>CRUD PHP dan MySQLi - WWW.MALASNGODING.COM</title>
+  <title>CRUD PHP dan MySQLi</title>
 </head>
 
 <body>
 
-  <h2>CRUD DATA MAHASISWA - WWW.MALASNGODING.COM</h2>
+  <h2>CRUD DATA MAHASISWA</h2>
   <br />
   <a href="index.php">KEMBALI</a>
   <br />
