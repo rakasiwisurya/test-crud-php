@@ -33,7 +33,7 @@
         <td><?php echo $d['alamat']; ?></td>
         <td>
           <a href="edit.php?id=<?php echo $d['id']; ?>">EDIT</a>
-          <a href="hapus.php?id=<?php echo $d['id']; ?>">HAPUS</a>
+          <a href="delete.php?id=<?php echo $d['id']; ?>">DELETE</a>
         </td>
       </tr>
     <?php
